@@ -1,0 +1,13 @@
+.color{
+    background-color: #845EC2;
+}
+#box{
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+#search{
+    border-radius: 30px;
+    background-color: blue;
+}
